@@ -27,3 +27,12 @@ This Streamlit app provides intrinsic valuation of publicly traded companies usi
    cd stock-valuation-app
    ```# Stock_Valuation_App
 Provides a fair value for a US listed Stock using 20 year OCF &amp; discount rate calculation
+
+📦 Dependencies
+streamlit
+yfinance
+numpy
+pandas
+matplotlib
+requests
+
